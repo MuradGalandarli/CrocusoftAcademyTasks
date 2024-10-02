@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\Training\Array_Algorithm\bin\Debug\net7.0\Array_Algorithm.exe
+C:\Users\LENOVO\Desktop\Training\Array_Algorithm\bin\Debug\net7.0\Array_Algorithm.deps.json
+C:\Users\LENOVO\Desktop\Training\Array_Algorithm\bin\Debug\net7.0\Array_Algorithm.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Training\Array_Algorithm\bin\Debug\net7.0\Array_Algorithm.dll
+C:\Users\LENOVO\Desktop\Training\Array_Algorithm\bin\Debug\net7.0\Array_Algorithm.pdb
+C:\Users\LENOVO\Desktop\Training\Array_Algorithm\obj\Debug\net7.0\Array_Algorithm.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Training\Array_Algorithm\obj\Debug\net7.0\Array_Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Training\Array_Algorithm\obj\Debug\net7.0\Array_Algorithm.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Training\Array_Algorithm\obj\Debug\net7.0\Array_Algorithm.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Training\Array_Algorithm\obj\Debug\net7.0\Array_Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Training\Array_Algorithm\obj\Debug\net7.0\Array_Algorithm.dll
+C:\Users\LENOVO\Desktop\Training\Array_Algorithm\obj\Debug\net7.0\refint\Array_Algorithm.dll
+C:\Users\LENOVO\Desktop\Training\Array_Algorithm\obj\Debug\net7.0\Array_Algorithm.pdb
+C:\Users\LENOVO\Desktop\Training\Array_Algorithm\obj\Debug\net7.0\Array_Algorithm.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Training\Array_Algorithm\obj\Debug\net7.0\ref\Array_Algorithm.dll

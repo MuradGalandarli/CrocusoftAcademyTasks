@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\Training\TataTypeParametersParams\bin\Debug\net7.0\TataTypeParametersParams.exe
+C:\Users\LENOVO\Desktop\Training\TataTypeParametersParams\bin\Debug\net7.0\TataTypeParametersParams.deps.json
+C:\Users\LENOVO\Desktop\Training\TataTypeParametersParams\bin\Debug\net7.0\TataTypeParametersParams.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Training\TataTypeParametersParams\bin\Debug\net7.0\TataTypeParametersParams.dll
+C:\Users\LENOVO\Desktop\Training\TataTypeParametersParams\bin\Debug\net7.0\TataTypeParametersParams.pdb
+C:\Users\LENOVO\Desktop\Training\TataTypeParametersParams\obj\Debug\net7.0\TataTypeParametersParams.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Training\TataTypeParametersParams\obj\Debug\net7.0\TataTypeParametersParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Training\TataTypeParametersParams\obj\Debug\net7.0\TataTypeParametersParams.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Training\TataTypeParametersParams\obj\Debug\net7.0\TataTypeParametersParams.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Training\TataTypeParametersParams\obj\Debug\net7.0\TataTypeParametersParams.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Training\TataTypeParametersParams\obj\Debug\net7.0\TataTypeParametersParams.dll
+C:\Users\LENOVO\Desktop\Training\TataTypeParametersParams\obj\Debug\net7.0\refint\TataTypeParametersParams.dll
+C:\Users\LENOVO\Desktop\Training\TataTypeParametersParams\obj\Debug\net7.0\TataTypeParametersParams.pdb
+C:\Users\LENOVO\Desktop\Training\TataTypeParametersParams\obj\Debug\net7.0\TataTypeParametersParams.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Training\TataTypeParametersParams\obj\Debug\net7.0\ref\TataTypeParametersParams.dll
