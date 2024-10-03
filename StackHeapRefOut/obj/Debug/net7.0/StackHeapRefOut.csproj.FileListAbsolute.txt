@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\Training\StackHeapRefOut\bin\Debug\net7.0\StackHeapRefOut.exe
+C:\Users\LENOVO\Desktop\Training\StackHeapRefOut\bin\Debug\net7.0\StackHeapRefOut.deps.json
+C:\Users\LENOVO\Desktop\Training\StackHeapRefOut\bin\Debug\net7.0\StackHeapRefOut.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Training\StackHeapRefOut\bin\Debug\net7.0\StackHeapRefOut.dll
+C:\Users\LENOVO\Desktop\Training\StackHeapRefOut\bin\Debug\net7.0\StackHeapRefOut.pdb
+C:\Users\LENOVO\Desktop\Training\StackHeapRefOut\obj\Debug\net7.0\StackHeapRefOut.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Training\StackHeapRefOut\obj\Debug\net7.0\StackHeapRefOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Training\StackHeapRefOut\obj\Debug\net7.0\StackHeapRefOut.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Training\StackHeapRefOut\obj\Debug\net7.0\StackHeapRefOut.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Training\StackHeapRefOut\obj\Debug\net7.0\StackHeapRefOut.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Training\StackHeapRefOut\obj\Debug\net7.0\StackHeapRefOut.dll
+C:\Users\LENOVO\Desktop\Training\StackHeapRefOut\obj\Debug\net7.0\refint\StackHeapRefOut.dll
+C:\Users\LENOVO\Desktop\Training\StackHeapRefOut\obj\Debug\net7.0\StackHeapRefOut.pdb
+C:\Users\LENOVO\Desktop\Training\StackHeapRefOut\obj\Debug\net7.0\StackHeapRefOut.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Training\StackHeapRefOut\obj\Debug\net7.0\ref\StackHeapRefOut.dll
