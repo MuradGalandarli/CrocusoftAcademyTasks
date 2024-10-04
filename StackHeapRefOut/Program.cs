@@ -127,12 +127,32 @@ namespace StackHeapRefOut
             //Console.WriteLine(sb);            
             #endregion
 
+            int input = 0;
+            bool IsSuccess = int.TryParse(Console.ReadLine(), out input);
+            Console.WriteLine(Faktorial(input));
+
+            int Faktorial(int num)
+            {
+                int multiple = 1;
+                if (IsSuccess)
+                {
+                    for (int i = 1; i <= num; i++)
+                    {
+                        multiple *= i;
+                    }
+                }
+                else
+                {
+                    return multiple = 0;
+                }
+                return multiple;
+            }
 
 
 
         }
 
 
-      
+
     }
 }
