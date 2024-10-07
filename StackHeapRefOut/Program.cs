@@ -8,19 +8,20 @@ namespace StackHeapRefOut
         {
 
 
-            #region Stack
+            //#region Stack
             //int a = 100;
             //int b = a;
 
-            //Console.WriteLine(a);//100
-            //Console.WriteLine(b);//100
+            //Console.WriteLine(a);
+            //Console.WriteLine(b);
 
             //a = 99;
 
-            //Console.WriteLine(b);//100
+            //Console.WriteLine(b);
 
             //b = a;
-            //Console.WriteLine(b);//50
+            //Console.WriteLine(b);
+
             ////Value Type //Int, double , float,bool ve s.
             ////Referance Type
             //bool istrue = false;
@@ -28,7 +29,7 @@ namespace StackHeapRefOut
             //bool isnull = istrue;
 
 
-            //if(!istrue)//istru trudur
+            //if (!istrue)//false
             //{
             //    Console.WriteLine("IsTrue truedur");
             //}
@@ -37,7 +38,7 @@ namespace StackHeapRefOut
             //    Console.WriteLine("Istrue Falsedir");
             //}
 
-            //if (isnull)//falsedir 
+            //if (isnull)//false
             //{
             //    Console.WriteLine("isnull truedur");
             //}
@@ -50,7 +51,7 @@ namespace StackHeapRefOut
 
 
 
-            //if (!isnull)//
+            //if (!isnull)//false
             //{
             //    Console.WriteLine("isnull truedur");
             //}
@@ -58,7 +59,7 @@ namespace StackHeapRefOut
             //{
             //    Console.WriteLine("isnull Falsedir");
             //}
-            #endregion
+            // #endregion
 
             #region Heap
             //937573214792
@@ -127,26 +128,51 @@ namespace StackHeapRefOut
             //Console.WriteLine(sb);            
             #endregion
 
-            int input = 0;
-            bool IsSuccess = int.TryParse(Console.ReadLine(), out input);
-            Console.WriteLine(Faktorial(input));
 
-            int Faktorial(int num)
-            {
-                int multiple = 1;
-                if (IsSuccess)
-                {
-                    for (int i = 1; i <= num; i++)
-                    {
-                        multiple *= i;
-                    }
-                }
-                else
-                {
-                    return multiple = 0;
-                }
-                return multiple;
-            }
+
+
+            /* int input = 0;
+             bool IsSuccess = int.TryParse(Console.ReadLine(), out input);
+             Console.WriteLine(Faktorial(input));
+
+             int Faktorial(int num)
+             {
+                 int multiple = 1;
+                 if (IsSuccess)
+                 {
+                     for (int i = 1; i <= num; i++)
+                     {
+                         multiple *= i;
+                     }
+                 }
+                 else
+                 {
+                     return multiple = 0;
+                 }
+                 return multiple;
+             }*/
+
+
+                int sati1 = 1;
+               
+            int sati2 = sati1;
+
+                sati1 = 5;
+
+            Console.WriteLine(sati1);
+                Console.WriteLine(sati2);
+
+            Console.WriteLine("-------------------------");
+            StringBuilder sb = new StringBuilder();
+            StringBuilder a = new StringBuilder();
+            
+            a = sb;
+
+            a.Append('1');
+            sb.Append("1");
+            Console.WriteLine(a.ToString());
+            Console.WriteLine(sb.ToString());
+
 
 
 

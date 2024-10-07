@@ -42,9 +42,6 @@ namespace Stack_Heap_Ref_Out
                 
                 ar = newArr;
 
-               
-
-
                 return ar;
             }
         }
