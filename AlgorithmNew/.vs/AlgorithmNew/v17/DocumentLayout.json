@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Training\\AlgorithmNew\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC9D5CA-CF33-4EB9-9E30-978072605F58}|AlgorithmNew\\AlgorithmNew.csproj|c:\\users\\lenovo\\desktop\\training\\algorithmnew\\algorithmnew\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC9D5CA-CF33-4EB9-9E30-978072605F58}|AlgorithmNew\\AlgorithmNew.csproj|solutionrelative:algorithmnew\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Training\\AlgorithmNew\\AlgorithmNew\\Program.cs",
+              "RelativeDocumentMoniker": "AlgorithmNew\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Training\\AlgorithmNew\\AlgorithmNew\\Program.cs",
+              "RelativeToolTip": "AlgorithmNew\\Program.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAwGAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T13:41:32.453Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
