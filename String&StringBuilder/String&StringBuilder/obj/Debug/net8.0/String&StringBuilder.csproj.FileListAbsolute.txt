@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\Training\String&StringBuilder\String&StringBuilder\bin\Debug\net8.0\String&StringBuilder.exe
+C:\Users\LENOVO\Desktop\Training\String&StringBuilder\String&StringBuilder\bin\Debug\net8.0\String&StringBuilder.deps.json
+C:\Users\LENOVO\Desktop\Training\String&StringBuilder\String&StringBuilder\bin\Debug\net8.0\String&StringBuilder.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Training\String&StringBuilder\String&StringBuilder\bin\Debug\net8.0\String&StringBuilder.dll
+C:\Users\LENOVO\Desktop\Training\String&StringBuilder\String&StringBuilder\bin\Debug\net8.0\String&StringBuilder.pdb
+C:\Users\LENOVO\Desktop\Training\String&StringBuilder\String&StringBuilder\obj\Debug\net8.0\String&StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Training\String&StringBuilder\String&StringBuilder\obj\Debug\net8.0\String&StringBuilder.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Training\String&StringBuilder\String&StringBuilder\obj\Debug\net8.0\String&StringBuilder.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Training\String&StringBuilder\String&StringBuilder\obj\Debug\net8.0\String&StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Training\String&StringBuilder\String&StringBuilder\obj\Debug\net8.0\String&StringBuilder.sourcelink.json
+C:\Users\LENOVO\Desktop\Training\String&StringBuilder\String&StringBuilder\obj\Debug\net8.0\String&StringBuilder.dll
+C:\Users\LENOVO\Desktop\Training\String&StringBuilder\String&StringBuilder\obj\Debug\net8.0\refint\String&StringBuilder.dll
+C:\Users\LENOVO\Desktop\Training\String&StringBuilder\String&StringBuilder\obj\Debug\net8.0\String&StringBuilder.pdb
+C:\Users\LENOVO\Desktop\Training\String&StringBuilder\String&StringBuilder\obj\Debug\net8.0\String&StringBuilder.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Training\String&StringBuilder\String&StringBuilder\obj\Debug\net8.0\ref\String&StringBuilder.dll
