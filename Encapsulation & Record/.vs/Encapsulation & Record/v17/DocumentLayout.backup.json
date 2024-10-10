@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Training\\Encapsulation \u0026 Record\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C671F6EC-2C35-4AF8-839C-E0373678C925}|Encapsulation \u0026 Record\\Encapsulation \u0026 Record.csproj|c:\\users\\lenovo\\desktop\\training\\encapsulation \u0026 record\\encapsulation \u0026 record\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C671F6EC-2C35-4AF8-839C-E0373678C925}|Encapsulation \u0026 Record\\Encapsulation \u0026 Record.csproj|solutionrelative:encapsulation \u0026 record\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C671F6EC-2C35-4AF8-839C-E0373678C925}|Encapsulation \u0026 Record\\Encapsulation \u0026 Record.csproj|c:\\users\\lenovo\\desktop\\training\\encapsulation \u0026 record\\encapsulation \u0026 record\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C671F6EC-2C35-4AF8-839C-E0373678C925}|Encapsulation \u0026 Record\\Encapsulation \u0026 Record.csproj|solutionrelative:encapsulation \u0026 record\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C671F6EC-2C35-4AF8-839C-E0373678C925}|Encapsulation \u0026 Record\\Encapsulation \u0026 Record.csproj|c:\\users\\lenovo\\desktop\\training\\encapsulation \u0026 record\\encapsulation \u0026 record\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C671F6EC-2C35-4AF8-839C-E0373678C925}|Encapsulation \u0026 Record\\Encapsulation \u0026 Record.csproj|solutionrelative:encapsulation \u0026 record\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Training\\Encapsulation \u0026 Record\\Encapsulation \u0026 Record\\Dog.cs",
+              "RelativeDocumentMoniker": "Encapsulation \u0026 Record\\Dog.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Training\\Encapsulation \u0026 Record\\Encapsulation \u0026 Record\\Dog.cs",
+              "RelativeToolTip": "Encapsulation \u0026 Record\\Dog.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T16:26:42.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Training\\Encapsulation \u0026 Record\\Encapsulation \u0026 Record\\Animal.cs",
+              "RelativeDocumentMoniker": "Encapsulation \u0026 Record\\Animal.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Training\\Encapsulation \u0026 Record\\Encapsulation \u0026 Record\\Animal.cs",
+              "RelativeToolTip": "Encapsulation \u0026 Record\\Animal.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAxwBIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T16:12:44.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Training\\Encapsulation \u0026 Record\\Encapsulation \u0026 Record\\Program.cs",
+              "RelativeDocumentMoniker": "Encapsulation \u0026 Record\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Training\\Encapsulation \u0026 Record\\Encapsulation \u0026 Record\\Program.cs",
+              "RelativeToolTip": "Encapsulation \u0026 Record\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T16:08:28.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
