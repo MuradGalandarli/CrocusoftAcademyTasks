@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\Training\Tuple_ValueTuple\Tuple_ValueTuple\bin\Debug\net8.0\Tuple_ValueTuple.exe
+C:\Users\LENOVO\Desktop\Training\Tuple_ValueTuple\Tuple_ValueTuple\bin\Debug\net8.0\Tuple_ValueTuple.deps.json
+C:\Users\LENOVO\Desktop\Training\Tuple_ValueTuple\Tuple_ValueTuple\bin\Debug\net8.0\Tuple_ValueTuple.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Training\Tuple_ValueTuple\Tuple_ValueTuple\bin\Debug\net8.0\Tuple_ValueTuple.dll
+C:\Users\LENOVO\Desktop\Training\Tuple_ValueTuple\Tuple_ValueTuple\bin\Debug\net8.0\Tuple_ValueTuple.pdb
+C:\Users\LENOVO\Desktop\Training\Tuple_ValueTuple\Tuple_ValueTuple\obj\Debug\net8.0\Tuple_ValueTuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Training\Tuple_ValueTuple\Tuple_ValueTuple\obj\Debug\net8.0\Tuple_ValueTuple.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Training\Tuple_ValueTuple\Tuple_ValueTuple\obj\Debug\net8.0\Tuple_ValueTuple.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Training\Tuple_ValueTuple\Tuple_ValueTuple\obj\Debug\net8.0\Tuple_ValueTuple.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Training\Tuple_ValueTuple\Tuple_ValueTuple\obj\Debug\net8.0\Tuple_ValueTuple.sourcelink.json
+C:\Users\LENOVO\Desktop\Training\Tuple_ValueTuple\Tuple_ValueTuple\obj\Debug\net8.0\Tuple_ValueTuple.dll
+C:\Users\LENOVO\Desktop\Training\Tuple_ValueTuple\Tuple_ValueTuple\obj\Debug\net8.0\refint\Tuple_ValueTuple.dll
+C:\Users\LENOVO\Desktop\Training\Tuple_ValueTuple\Tuple_ValueTuple\obj\Debug\net8.0\Tuple_ValueTuple.pdb
+C:\Users\LENOVO\Desktop\Training\Tuple_ValueTuple\Tuple_ValueTuple\obj\Debug\net8.0\Tuple_ValueTuple.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Training\Tuple_ValueTuple\Tuple_ValueTuple\obj\Debug\net8.0\ref\Tuple_ValueTuple.dll

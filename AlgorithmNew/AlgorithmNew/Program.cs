@@ -138,20 +138,20 @@ foreach (int i in ar)
     Console.WriteLine(i);
 }*/
 
-int[] ar = { 4, 8, 9, 78, 5, 6, 8, 3, 45, 2 };
+/*int[] ar = { 4, 8, 9, 78, 5, 6, 8, 3, 45, 2 };
 
 
 for (int i = 0; i < ar.Length; i++)
 {
-    int pivot = ar[i];
+    int pivot = ar[0];
     for (int j = 0; j < ar.Length; j++)
     {
         if (ar[j] < pivot)
         {
             int temp;
-            temp = ar[j];
-            ar[j] = ar[i];
-            ar[i] = temp;
+            temp = ar[i];
+            ar[i] = ar[j];
+            ar[j] = temp;
 
         }
         if (ar[j] > pivot)
@@ -164,7 +164,7 @@ for (int i = 0; i < ar.Length; i++)
     }
 
 }
-/*
+*//*
 2
 6
 3
@@ -175,8 +175,8 @@ for (int i = 0; i < ar.Length; i++)
 8
 45
 78
-*/
+*//*
 foreach (int i in ar)
-{
-    Console.WriteLine(i);
-}
+{*/
+ /*   Console.WriteLine(i);
+}*/
