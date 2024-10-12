@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\Training\Regular_Expressions\Regular_Expressions\bin\Debug\net8.0\Regular_Expressions.exe
+C:\Users\LENOVO\Desktop\Training\Regular_Expressions\Regular_Expressions\bin\Debug\net8.0\Regular_Expressions.deps.json
+C:\Users\LENOVO\Desktop\Training\Regular_Expressions\Regular_Expressions\bin\Debug\net8.0\Regular_Expressions.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Training\Regular_Expressions\Regular_Expressions\bin\Debug\net8.0\Regular_Expressions.dll
+C:\Users\LENOVO\Desktop\Training\Regular_Expressions\Regular_Expressions\bin\Debug\net8.0\Regular_Expressions.pdb
+C:\Users\LENOVO\Desktop\Training\Regular_Expressions\Regular_Expressions\obj\Debug\net8.0\Regular_Expressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Training\Regular_Expressions\Regular_Expressions\obj\Debug\net8.0\Regular_Expressions.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Training\Regular_Expressions\Regular_Expressions\obj\Debug\net8.0\Regular_Expressions.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Training\Regular_Expressions\Regular_Expressions\obj\Debug\net8.0\Regular_Expressions.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Training\Regular_Expressions\Regular_Expressions\obj\Debug\net8.0\Regular_Expressions.sourcelink.json
+C:\Users\LENOVO\Desktop\Training\Regular_Expressions\Regular_Expressions\obj\Debug\net8.0\Regular_Expressions.dll
+C:\Users\LENOVO\Desktop\Training\Regular_Expressions\Regular_Expressions\obj\Debug\net8.0\refint\Regular_Expressions.dll
+C:\Users\LENOVO\Desktop\Training\Regular_Expressions\Regular_Expressions\obj\Debug\net8.0\Regular_Expressions.pdb
+C:\Users\LENOVO\Desktop\Training\Regular_Expressions\Regular_Expressions\obj\Debug\net8.0\Regular_Expressions.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Training\Regular_Expressions\Regular_Expressions\obj\Debug\net8.0\ref\Regular_Expressions.dll
