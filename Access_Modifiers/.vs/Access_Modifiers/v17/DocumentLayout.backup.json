@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Training\\Access_Modifiers\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8C38A34B-3F9C-4254-8BC8-7E36549E9DDA}|Access_Modifiers\\Access_Modifiers.csproj|c:\\users\\lenovo\\desktop\\training\\access_modifiers\\access_modifiers\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C38A34B-3F9C-4254-8BC8-7E36549E9DDA}|Access_Modifiers\\Access_Modifiers.csproj|solutionrelative:access_modifiers\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C38A34B-3F9C-4254-8BC8-7E36549E9DDA}|Access_Modifiers\\Access_Modifiers.csproj|c:\\users\\lenovo\\desktop\\training\\access_modifiers\\access_modifiers\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C38A34B-3F9C-4254-8BC8-7E36549E9DDA}|Access_Modifiers\\Access_Modifiers.csproj|solutionrelative:access_modifiers\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8C38A34B-3F9C-4254-8BC8-7E36549E9DDA}|Access_Modifiers\\Access_Modifiers.csproj|c:\\users\\lenovo\\desktop\\training\\access_modifiers\\access_modifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C38A34B-3F9C-4254-8BC8-7E36549E9DDA}|Access_Modifiers\\Access_Modifiers.csproj|solutionrelative:access_modifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,14 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8C38A34B-3F9C-4254-8BC8-7E36549E9DDA}|Access_Modifiers\\Access_Modifiers.csproj|c:\\users\\lenovo\\desktop\\training\\access_modifiers\\access_modifiers\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C38A34B-3F9C-4254-8BC8-7E36549E9DDA}|Access_Modifiers\\Access_Modifiers.csproj|solutionrelative:access_modifiers\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C38A34B-3F9C-4254-8BC8-7E36549E9DDA}|Access_Modifiers\\Access_Modifiers.csproj|c:\\users\\lenovo\\desktop\\training\\access_modifiers\\access_modifiers\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C38A34B-3F9C-4254-8BC8-7E36549E9DDA}|Access_Modifiers\\Access_Modifiers.csproj|solutionrelative:access_modifiers\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C38A34B-3F9C-4254-8BC8-7E36549E9DDA}|Access_Modifiers\\Access_Modifiers.csproj|c:\\users\\lenovo\\desktop\\training\\access_modifiers\\access_modifiers\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C38A34B-3F9C-4254-8BC8-7E36549E9DDA}|Access_Modifiers\\Access_Modifiers.csproj|solutionrelative:access_modifiers\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C38A34B-3F9C-4254-8BC8-7E36549E9DDA}|Access_Modifiers\\Access_Modifiers.csproj|c:\\users\\lenovo\\desktop\\training\\access_modifiers\\access_modifiers\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,20 +50,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Group.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Training\\Access_Modifiers\\Access_Modifiers\\Group.cs",
               "RelativeDocumentMoniker": "Access_Modifiers\\Group.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Training\\Access_Modifiers\\Access_Modifiers\\Group.cs",
               "RelativeToolTip": "Access_Modifiers\\Group.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAowA8AAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T18:32:11.755Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Training\\Access_Modifiers\\Access_Modifiers\\Student.cs",
               "RelativeDocumentMoniker": "Access_Modifiers\\Student.cs",
@@ -71,12 +71,11 @@
               "RelativeToolTip": "Access_Modifiers\\Student.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAuwA8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T18:13:01.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T18:13:01.076Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Training\\Access_Modifiers\\Access_Modifiers\\Person.cs",
               "RelativeDocumentMoniker": "Access_Modifiers\\Person.cs",
@@ -84,8 +83,7 @@
               "RelativeToolTip": "Access_Modifiers\\Person.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwBQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T18:09:48.69Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T18:09:48.69Z"
             },
             {
               "$type": "Document",
@@ -109,12 +107,11 @@
               "RelativeToolTip": "Access_Modifiers\\Models\\Employee.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAnwA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T17:45:37.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T17:45:37.405Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Manager.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Training\\Access_Modifiers\\Access_Modifiers\\Manager.cs",
               "RelativeDocumentMoniker": "Access_Modifiers\\Manager.cs",
@@ -127,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Training\\Access_Modifiers\\Access_Modifiers\\Program.cs",
               "RelativeDocumentMoniker": "Access_Modifiers\\Program.cs",
