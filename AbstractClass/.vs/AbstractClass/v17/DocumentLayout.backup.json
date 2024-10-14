@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Training\\AbstractClass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23057DEF-02E7-45F7-A5EA-B02A1922A643}|AbstractClass\\AbstractClass.csproj|c:\\users\\lenovo\\desktop\\training\\abstractclass\\abstractclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23057DEF-02E7-45F7-A5EA-B02A1922A643}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23057DEF-02E7-45F7-A5EA-B02A1922A643}|AbstractClass\\AbstractClass.csproj|c:\\users\\lenovo\\desktop\\training\\abstractclass\\abstractclass\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23057DEF-02E7-45F7-A5EA-B02A1922A643}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23057DEF-02E7-45F7-A5EA-B02A1922A643}|AbstractClass\\AbstractClass.csproj|c:\\users\\lenovo\\desktop\\training\\abstractclass\\abstractclass\\bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23057DEF-02E7-45F7-A5EA-B02A1922A643}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23057DEF-02E7-45F7-A5EA-B02A1922A643}|AbstractClass\\AbstractClass.csproj|c:\\users\\lenovo\\desktop\\training\\abstractclass\\abstractclass\\abstraction\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23057DEF-02E7-45F7-A5EA-B02A1922A643}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\abstraction\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Training\\AbstractClass\\AbstractClass\\Car.cs",
+              "RelativeDocumentMoniker": "AbstractClass\\Car.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Training\\AbstractClass\\AbstractClass\\Car.cs*",
+              "RelativeToolTip": "AbstractClass\\Car.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:54:26.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bicycle.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Training\\AbstractClass\\AbstractClass\\Bicycle.cs",
+              "RelativeDocumentMoniker": "AbstractClass\\Bicycle.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Training\\AbstractClass\\AbstractClass\\Bicycle.cs*",
+              "RelativeToolTip": "AbstractClass\\Bicycle.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:54:21.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Training\\AbstractClass\\AbstractClass\\Abstraction\\Vehicle.cs",
+              "RelativeDocumentMoniker": "AbstractClass\\Abstraction\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Training\\AbstractClass\\AbstractClass\\Abstraction\\Vehicle.cs*",
+              "RelativeToolTip": "AbstractClass\\Abstraction\\Vehicle.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:54:14.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Training\\AbstractClass\\AbstractClass\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractClass\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Training\\AbstractClass\\AbstractClass\\Program.cs",
+              "RelativeToolTip": "AbstractClass\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:51:06.582Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
