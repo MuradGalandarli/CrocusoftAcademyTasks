@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Training\\StaticRepeat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6750675B-077E-446A-9C5D-AC44B7E43CB1}|StaticRepeat\\StaticRepeat.csproj|c:\\users\\lenovo\\desktop\\training\\staticrepeat\\staticrepeat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6750675B-077E-446A-9C5D-AC44B7E43CB1}|StaticRepeat\\StaticRepeat.csproj|solutionrelative:staticrepeat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6750675B-077E-446A-9C5D-AC44B7E43CB1}|StaticRepeat\\StaticRepeat.csproj|c:\\users\\lenovo\\desktop\\training\\staticrepeat\\staticrepeat\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6750675B-077E-446A-9C5D-AC44B7E43CB1}|StaticRepeat\\StaticRepeat.csproj|solutionrelative:staticrepeat\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6750675B-077E-446A-9C5D-AC44B7E43CB1}|StaticRepeat\\StaticRepeat.csproj|c:\\users\\lenovo\\desktop\\training\\staticrepeat\\staticrepeat\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6750675B-077E-446A-9C5D-AC44B7E43CB1}|StaticRepeat\\StaticRepeat.csproj|solutionrelative:staticrepeat\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Training\\StaticRepeat\\StaticRepeat\\Group.cs",
+              "RelativeDocumentMoniker": "StaticRepeat\\Group.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Training\\StaticRepeat\\StaticRepeat\\Group.cs",
+              "RelativeToolTip": "StaticRepeat\\Group.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAuwD4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:53:28.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Training\\StaticRepeat\\StaticRepeat\\Student.cs",
+              "RelativeDocumentMoniker": "StaticRepeat\\Student.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Training\\StaticRepeat\\StaticRepeat\\Student.cs",
+              "RelativeToolTip": "StaticRepeat\\Student.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:44:52.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Training\\StaticRepeat\\StaticRepeat\\Program.cs",
+              "RelativeDocumentMoniker": "StaticRepeat\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Training\\StaticRepeat\\StaticRepeat\\Program.cs",
+              "RelativeToolTip": "StaticRepeat\\Program.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAApwEYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:33:40.112Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

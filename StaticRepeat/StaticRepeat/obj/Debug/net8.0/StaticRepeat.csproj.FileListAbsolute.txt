@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\Training\StaticRepeat\StaticRepeat\bin\Debug\net8.0\StaticRepeat.exe
+C:\Users\LENOVO\Desktop\Training\StaticRepeat\StaticRepeat\bin\Debug\net8.0\StaticRepeat.deps.json
+C:\Users\LENOVO\Desktop\Training\StaticRepeat\StaticRepeat\bin\Debug\net8.0\StaticRepeat.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Training\StaticRepeat\StaticRepeat\bin\Debug\net8.0\StaticRepeat.dll
+C:\Users\LENOVO\Desktop\Training\StaticRepeat\StaticRepeat\bin\Debug\net8.0\StaticRepeat.pdb
+C:\Users\LENOVO\Desktop\Training\StaticRepeat\StaticRepeat\obj\Debug\net8.0\StaticRepeat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Training\StaticRepeat\StaticRepeat\obj\Debug\net8.0\StaticRepeat.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Training\StaticRepeat\StaticRepeat\obj\Debug\net8.0\StaticRepeat.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Training\StaticRepeat\StaticRepeat\obj\Debug\net8.0\StaticRepeat.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Training\StaticRepeat\StaticRepeat\obj\Debug\net8.0\StaticRepeat.sourcelink.json
+C:\Users\LENOVO\Desktop\Training\StaticRepeat\StaticRepeat\obj\Debug\net8.0\StaticRepeat.dll
+C:\Users\LENOVO\Desktop\Training\StaticRepeat\StaticRepeat\obj\Debug\net8.0\refint\StaticRepeat.dll
+C:\Users\LENOVO\Desktop\Training\StaticRepeat\StaticRepeat\obj\Debug\net8.0\StaticRepeat.pdb
+C:\Users\LENOVO\Desktop\Training\StaticRepeat\StaticRepeat\obj\Debug\net8.0\StaticRepeat.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Training\StaticRepeat\StaticRepeat\obj\Debug\net8.0\ref\StaticRepeat.dll
