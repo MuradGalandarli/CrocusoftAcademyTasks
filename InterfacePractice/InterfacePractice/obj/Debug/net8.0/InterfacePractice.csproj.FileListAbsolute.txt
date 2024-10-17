@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\Training\InterfacePractice\InterfacePractice\obj\Debug\net8.0\InterfacePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Training\InterfacePractice\InterfacePractice\obj\Debug\net8.0\InterfacePractice.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Training\InterfacePractice\InterfacePractice\obj\Debug\net8.0\InterfacePractice.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Training\InterfacePractice\InterfacePractice\obj\Debug\net8.0\InterfacePractice.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Training\InterfacePractice\InterfacePractice\obj\Debug\net8.0\InterfacePractice.sourcelink.json
+C:\Users\LENOVO\Desktop\Training\InterfacePractice\InterfacePractice\bin\Debug\net8.0\InterfacePractice.exe
+C:\Users\LENOVO\Desktop\Training\InterfacePractice\InterfacePractice\bin\Debug\net8.0\InterfacePractice.deps.json
+C:\Users\LENOVO\Desktop\Training\InterfacePractice\InterfacePractice\bin\Debug\net8.0\InterfacePractice.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Training\InterfacePractice\InterfacePractice\bin\Debug\net8.0\InterfacePractice.dll
+C:\Users\LENOVO\Desktop\Training\InterfacePractice\InterfacePractice\bin\Debug\net8.0\InterfacePractice.pdb
+C:\Users\LENOVO\Desktop\Training\InterfacePractice\InterfacePractice\obj\Debug\net8.0\InterfacePractice.dll
+C:\Users\LENOVO\Desktop\Training\InterfacePractice\InterfacePractice\obj\Debug\net8.0\refint\InterfacePractice.dll
+C:\Users\LENOVO\Desktop\Training\InterfacePractice\InterfacePractice\obj\Debug\net8.0\InterfacePractice.pdb
+C:\Users\LENOVO\Desktop\Training\InterfacePractice\InterfacePractice\obj\Debug\net8.0\InterfacePractice.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Training\InterfacePractice\InterfacePractice\obj\Debug\net8.0\ref\InterfacePractice.dll
