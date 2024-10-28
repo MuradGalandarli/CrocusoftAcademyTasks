@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\Exam\bin\Debug\net8.0\ExamConsole.exe
+C:\Users\LENOVO\source\repos\Exam\bin\Debug\net8.0\ExamConsole.deps.json
+C:\Users\LENOVO\source\repos\Exam\bin\Debug\net8.0\ExamConsole.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Exam\bin\Debug\net8.0\ExamConsole.dll
+C:\Users\LENOVO\source\repos\Exam\bin\Debug\net8.0\ExamConsole.pdb
+C:\Users\LENOVO\source\repos\Exam\obj\Debug\net8.0\ExamConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Exam\obj\Debug\net8.0\ExamConsole.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Exam\obj\Debug\net8.0\ExamConsole.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Exam\obj\Debug\net8.0\ExamConsole.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Exam\obj\Debug\net8.0\ExamConsole.dll
+C:\Users\LENOVO\source\repos\Exam\obj\Debug\net8.0\refint\ExamConsole.dll
+C:\Users\LENOVO\source\repos\Exam\obj\Debug\net8.0\ExamConsole.pdb
+C:\Users\LENOVO\source\repos\Exam\obj\Debug\net8.0\ExamConsole.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\Exam\obj\Debug\net8.0\ref\ExamConsole.dll
