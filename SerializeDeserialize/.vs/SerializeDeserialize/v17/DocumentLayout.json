@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\SerializeDeserialize\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAC4B75-DC4B-4FD4-A10C-DCEC793D581A}|FileOperation\\FileOperation.csproj|c:\\users\\lenovo\\source\\repos\\serializedeserialize\\fileoperation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEAC4B75-DC4B-4FD4-A10C-DCEC793D581A}|FileOperation\\FileOperation.csproj|solutionrelative:fileoperation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84CD943D-7ADF-4918-8730-893704B1295A}|SerializeDeserialize\\SerializeDeserialize.csproj|c:\\users\\lenovo\\source\\repos\\serializedeserialize\\serializedeserialize\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84CD943D-7ADF-4918-8730-893704B1295A}|SerializeDeserialize\\SerializeDeserialize.csproj|solutionrelative:serializedeserialize\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84CD943D-7ADF-4918-8730-893704B1295A}|SerializeDeserialize\\SerializeDeserialize.csproj|c:\\users\\lenovo\\source\\repos\\serializedeserialize\\serializedeserialize\\names.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84CD943D-7ADF-4918-8730-893704B1295A}|SerializeDeserialize\\SerializeDeserialize.csproj|solutionrelative:serializedeserialize\\names.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\SerializeDeserialize\\FileOperation\\Program.cs",
+              "RelativeDocumentMoniker": "FileOperation\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\SerializeDeserialize\\FileOperation\\Program.cs*",
+              "RelativeToolTip": "FileOperation\\Program.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:04:56.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "names.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\SerializeDeserialize\\SerializeDeserialize\\names.json",
+              "RelativeDocumentMoniker": "SerializeDeserialize\\names.json",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\SerializeDeserialize\\SerializeDeserialize\\names.json",
+              "RelativeToolTip": "SerializeDeserialize\\names.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-29T09:20:22.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\SerializeDeserialize\\SerializeDeserialize\\Program.cs",
+              "RelativeDocumentMoniker": "SerializeDeserialize\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\SerializeDeserialize\\SerializeDeserialize\\Program.cs",
+              "RelativeToolTip": "SerializeDeserialize\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBkAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:13:58.178Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

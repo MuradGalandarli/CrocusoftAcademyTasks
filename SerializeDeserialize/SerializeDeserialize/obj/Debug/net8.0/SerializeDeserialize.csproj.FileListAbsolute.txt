@@ -1,0 +1,17 @@
+C:\Users\LENOVO\source\repos\SerializeDeserialize\SerializeDeserialize\bin\Debug\net8.0\SerializeDeserialize.exe
+C:\Users\LENOVO\source\repos\SerializeDeserialize\SerializeDeserialize\bin\Debug\net8.0\SerializeDeserialize.deps.json
+C:\Users\LENOVO\source\repos\SerializeDeserialize\SerializeDeserialize\bin\Debug\net8.0\SerializeDeserialize.runtimeconfig.json
+C:\Users\LENOVO\source\repos\SerializeDeserialize\SerializeDeserialize\bin\Debug\net8.0\SerializeDeserialize.dll
+C:\Users\LENOVO\source\repos\SerializeDeserialize\SerializeDeserialize\bin\Debug\net8.0\SerializeDeserialize.pdb
+C:\Users\LENOVO\source\repos\SerializeDeserialize\SerializeDeserialize\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\LENOVO\source\repos\SerializeDeserialize\SerializeDeserialize\obj\Debug\net8.0\SerializeDeserialize.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\SerializeDeserialize\SerializeDeserialize\obj\Debug\net8.0\SerializeDeserialize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\SerializeDeserialize\SerializeDeserialize\obj\Debug\net8.0\SerializeDeserialize.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\SerializeDeserialize\SerializeDeserialize\obj\Debug\net8.0\SerializeDeserialize.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\SerializeDeserialize\SerializeDeserialize\obj\Debug\net8.0\SerializeDeserialize.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\SerializeDeserialize\SerializeDeserialize\obj\Debug\net8.0\Serializ.6CE93EC0.Up2Date
+C:\Users\LENOVO\source\repos\SerializeDeserialize\SerializeDeserialize\obj\Debug\net8.0\SerializeDeserialize.dll
+C:\Users\LENOVO\source\repos\SerializeDeserialize\SerializeDeserialize\obj\Debug\net8.0\refint\SerializeDeserialize.dll
+C:\Users\LENOVO\source\repos\SerializeDeserialize\SerializeDeserialize\obj\Debug\net8.0\SerializeDeserialize.pdb
+C:\Users\LENOVO\source\repos\SerializeDeserialize\SerializeDeserialize\obj\Debug\net8.0\SerializeDeserialize.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\SerializeDeserialize\SerializeDeserialize\obj\Debug\net8.0\ref\SerializeDeserialize.dll

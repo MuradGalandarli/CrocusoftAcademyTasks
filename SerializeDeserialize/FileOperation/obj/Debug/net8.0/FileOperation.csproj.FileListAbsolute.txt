@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\SerializeDeserialize\FileOperation\bin\Debug\net8.0\FileOperation.exe
+C:\Users\LENOVO\source\repos\SerializeDeserialize\FileOperation\bin\Debug\net8.0\FileOperation.deps.json
+C:\Users\LENOVO\source\repos\SerializeDeserialize\FileOperation\bin\Debug\net8.0\FileOperation.runtimeconfig.json
+C:\Users\LENOVO\source\repos\SerializeDeserialize\FileOperation\bin\Debug\net8.0\FileOperation.dll
+C:\Users\LENOVO\source\repos\SerializeDeserialize\FileOperation\bin\Debug\net8.0\FileOperation.pdb
+C:\Users\LENOVO\source\repos\SerializeDeserialize\FileOperation\obj\Debug\net8.0\FileOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\SerializeDeserialize\FileOperation\obj\Debug\net8.0\FileOperation.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\SerializeDeserialize\FileOperation\obj\Debug\net8.0\FileOperation.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\SerializeDeserialize\FileOperation\obj\Debug\net8.0\FileOperation.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\SerializeDeserialize\FileOperation\obj\Debug\net8.0\FileOperation.dll
+C:\Users\LENOVO\source\repos\SerializeDeserialize\FileOperation\obj\Debug\net8.0\refint\FileOperation.dll
+C:\Users\LENOVO\source\repos\SerializeDeserialize\FileOperation\obj\Debug\net8.0\FileOperation.pdb
+C:\Users\LENOVO\source\repos\SerializeDeserialize\FileOperation\obj\Debug\net8.0\FileOperation.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\SerializeDeserialize\FileOperation\obj\Debug\net8.0\ref\FileOperation.dll
