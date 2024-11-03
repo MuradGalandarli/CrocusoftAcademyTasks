@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\Training\Luhn\Luhn\bin\Debug\net8.0\Luhn.exe
+C:\Users\LENOVO\Desktop\Training\Luhn\Luhn\bin\Debug\net8.0\Luhn.deps.json
+C:\Users\LENOVO\Desktop\Training\Luhn\Luhn\bin\Debug\net8.0\Luhn.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Training\Luhn\Luhn\bin\Debug\net8.0\Luhn.dll
+C:\Users\LENOVO\Desktop\Training\Luhn\Luhn\bin\Debug\net8.0\Luhn.pdb
+C:\Users\LENOVO\Desktop\Training\Luhn\Luhn\obj\Debug\net8.0\Luhn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Training\Luhn\Luhn\obj\Debug\net8.0\Luhn.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Training\Luhn\Luhn\obj\Debug\net8.0\Luhn.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Training\Luhn\Luhn\obj\Debug\net8.0\Luhn.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Training\Luhn\Luhn\obj\Debug\net8.0\Luhn.sourcelink.json
+C:\Users\LENOVO\Desktop\Training\Luhn\Luhn\obj\Debug\net8.0\Luhn.dll
+C:\Users\LENOVO\Desktop\Training\Luhn\Luhn\obj\Debug\net8.0\refint\Luhn.dll
+C:\Users\LENOVO\Desktop\Training\Luhn\Luhn\obj\Debug\net8.0\Luhn.pdb
+C:\Users\LENOVO\Desktop\Training\Luhn\Luhn\obj\Debug\net8.0\Luhn.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Training\Luhn\Luhn\obj\Debug\net8.0\ref\Luhn.dll
