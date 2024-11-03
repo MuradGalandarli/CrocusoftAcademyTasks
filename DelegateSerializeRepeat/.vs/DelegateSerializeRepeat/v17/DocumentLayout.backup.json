@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Training\\DelegateSerializeRepeat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A788C7DF-C41D-4059-891B-08F7A4ECDFA8}|DelegateSerializeRepeat\\DelegateSerializeRepeat.csproj|c:\\users\\lenovo\\desktop\\training\\delegateserializerepeat\\delegateserializerepeat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A788C7DF-C41D-4059-891B-08F7A4ECDFA8}|DelegateSerializeRepeat\\DelegateSerializeRepeat.csproj|solutionrelative:delegateserializerepeat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A788C7DF-C41D-4059-891B-08F7A4ECDFA8}|DelegateSerializeRepeat\\DelegateSerializeRepeat.csproj|c:\\users\\lenovo\\desktop\\training\\delegateserializerepeat\\delegateserializerepeat\\booksjson.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A788C7DF-C41D-4059-891B-08F7A4ECDFA8}|DelegateSerializeRepeat\\DelegateSerializeRepeat.csproj|solutionrelative:delegateserializerepeat\\booksjson.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A788C7DF-C41D-4059-891B-08F7A4ECDFA8}|DelegateSerializeRepeat\\DelegateSerializeRepeat.csproj|c:\\users\\lenovo\\desktop\\training\\delegateserializerepeat\\delegateserializerepeat\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A788C7DF-C41D-4059-891B-08F7A4ECDFA8}|DelegateSerializeRepeat\\DelegateSerializeRepeat.csproj|solutionrelative:delegateserializerepeat\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A788C7DF-C41D-4059-891B-08F7A4ECDFA8}|DelegateSerializeRepeat\\DelegateSerializeRepeat.csproj|c:\\users\\lenovo\\desktop\\training\\delegateserializerepeat\\delegateserializerepeat\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A788C7DF-C41D-4059-891B-08F7A4ECDFA8}|DelegateSerializeRepeat\\DelegateSerializeRepeat.csproj|solutionrelative:delegateserializerepeat\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Booksjson.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Training\\DelegateSerializeRepeat\\DelegateSerializeRepeat\\Booksjson.json",
+              "RelativeDocumentMoniker": "DelegateSerializeRepeat\\Booksjson.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Training\\DelegateSerializeRepeat\\DelegateSerializeRepeat\\Booksjson.json",
+              "RelativeToolTip": "DelegateSerializeRepeat\\Booksjson.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-03T17:53:08.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Training\\DelegateSerializeRepeat\\DelegateSerializeRepeat\\Book.cs",
+              "RelativeDocumentMoniker": "DelegateSerializeRepeat\\Book.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Training\\DelegateSerializeRepeat\\DelegateSerializeRepeat\\Book.cs",
+              "RelativeToolTip": "DelegateSerializeRepeat\\Book.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T16:29:00.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Training\\DelegateSerializeRepeat\\DelegateSerializeRepeat\\Library.cs",
+              "RelativeDocumentMoniker": "DelegateSerializeRepeat\\Library.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Training\\DelegateSerializeRepeat\\DelegateSerializeRepeat\\Library.cs",
+              "RelativeToolTip": "DelegateSerializeRepeat\\Library.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAhwDAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:18:06.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Training\\DelegateSerializeRepeat\\DelegateSerializeRepeat\\Program.cs",
+              "RelativeDocumentMoniker": "DelegateSerializeRepeat\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Training\\DelegateSerializeRepeat\\DelegateSerializeRepeat\\Program.cs",
+              "RelativeToolTip": "DelegateSerializeRepeat\\Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwD4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T16:28:42.026Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
