@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\Training\Sql\Sql\bin\Debug\net8.0\Sql.exe
+C:\Users\LENOVO\Desktop\Training\Sql\Sql\bin\Debug\net8.0\Sql.deps.json
+C:\Users\LENOVO\Desktop\Training\Sql\Sql\bin\Debug\net8.0\Sql.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Training\Sql\Sql\bin\Debug\net8.0\Sql.dll
+C:\Users\LENOVO\Desktop\Training\Sql\Sql\bin\Debug\net8.0\Sql.pdb
+C:\Users\LENOVO\Desktop\Training\Sql\Sql\obj\Debug\net8.0\Sql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Training\Sql\Sql\obj\Debug\net8.0\Sql.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Training\Sql\Sql\obj\Debug\net8.0\Sql.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Training\Sql\Sql\obj\Debug\net8.0\Sql.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Training\Sql\Sql\obj\Debug\net8.0\Sql.sourcelink.json
+C:\Users\LENOVO\Desktop\Training\Sql\Sql\obj\Debug\net8.0\Sql.dll
+C:\Users\LENOVO\Desktop\Training\Sql\Sql\obj\Debug\net8.0\refint\Sql.dll
+C:\Users\LENOVO\Desktop\Training\Sql\Sql\obj\Debug\net8.0\Sql.pdb
+C:\Users\LENOVO\Desktop\Training\Sql\Sql\obj\Debug\net8.0\Sql.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Training\Sql\Sql\obj\Debug\net8.0\ref\Sql.dll

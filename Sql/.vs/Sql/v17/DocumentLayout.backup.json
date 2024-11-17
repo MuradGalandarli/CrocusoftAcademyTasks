@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Training\\Sql\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EE5A3544-1B00-4718-9179-919FBFEDA427}|Sql\\Sql.csproj|c:\\users\\lenovo\\desktop\\training\\sql\\sql\\sql.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{EE5A3544-1B00-4718-9179-919FBFEDA427}|Sql\\Sql.csproj|solutionrelative:sql\\sql.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EE5A3544-1B00-4718-9179-919FBFEDA427}|Sql\\Sql.csproj|c:\\users\\lenovo\\desktop\\training\\sql\\sql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE5A3544-1B00-4718-9179-919FBFEDA427}|Sql\\Sql.csproj|solutionrelative:sql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -27,12 +31,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Sql",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Training\\Sql\\Sql\\Sql.csproj",
+              "RelativeDocumentMoniker": "Sql\\Sql.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Training\\Sql\\Sql\\Sql.csproj",
+              "RelativeToolTip": "Sql\\Sql.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-17T12:46:09.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Training\\Sql\\Sql\\Program.cs",
               "RelativeDocumentMoniker": "Sql\\Program.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Training\\Sql\\Sql\\Program.cs",
-              "RelativeToolTip": "Sql\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Training\\Sql\\Sql\\Program.cs*",
+              "RelativeToolTip": "Sql\\Program.cs*",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAmwEkAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-17T12:25:59.271Z",
               "EditorCaption": ""
